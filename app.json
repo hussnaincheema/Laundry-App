@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "LaundryApp",
+    "slug": "LaundryApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Laundry-Splash.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Laundry-Splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Laundry-Splash.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Laundry-Splash.png"
+    }
+  }
+}
